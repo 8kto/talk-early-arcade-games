@@ -1,0 +1,52 @@
+{
+  "name": "talk-early-arcade-games",
+  "description": "The short talk about the early age of the Arcade (Video) Games",
+  "version": "1.0.0",
+  "author": "Igor Ivlev <web@axisful.info>",
+  "dependencies": {
+    "gatsby": "^2.0.33",
+    "gatsby-plugin-layout": "^1.0.1",
+    "gatsby-plugin-offline": "^2.0.5",
+    "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-plugin-sharp": "^2.0.14",
+    "gatsby-remark-copy-images": "^0.2.1",
+    "gatsby-remark-copy-linked-files": "^2.0.7",
+    "gatsby-remark-images": "^3.0.1",
+    "gatsby-remark-relative-images": "^0.2.1",
+    "gatsby-source-filesystem": "^2.0.1",
+    "gatsby-transformer-remark": "^2.1.15",
+    "gatsby-transformer-sharp": "^2.1.9",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.13",
+    "lodash.mergewith": "^4.6.2",
+    "lodash.template": "^4.5.0",
+    "react": "^16.5.1",
+    "react-dev-utils": "^4.2.2",
+    "react-dom": "^16.5.1",
+    "react-helmet": "^5.2.0",
+    "react-swipeable": "^4.3.0",
+    "react-transition-group": "^2.4.0",
+    "remark": "^9.0.0",
+    "remark-html": "^8.0.0",
+    "remark-preset-lint-recommended": "^3.0.2",
+    "webpack-dev-server": "^3.1.11"
+  },
+  "keywords": [
+    "arcade-games",
+    "gatsby-slides",
+    "slides"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"src/**/*.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1",
+    "prettier": "^1.10.2"
+  }
+}
