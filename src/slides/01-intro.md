@@ -1,8 +1,8 @@
-# Improving yor Development eXperience
+# Early age of Arcade Games
 <img 
   id="cover-image" 
-  src="./images/giant-swiss-army-knife.jpg" 
-  alt="Tips and tricks, notes, howto's about configuring your environment, as OS, terminal, profile, git and vim and even a bit more." 
+  src="./images/6--computer-space.jpg" 
+  alt="" 
 />
 
 ---
