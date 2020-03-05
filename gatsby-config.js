@@ -1,9 +1,9 @@
 module.exports = {
-  pathPrefix: "/talk-development-experience",
+  pathPrefix: "/talk-early-arcade-games",
   siteMetadata: {
     name: `Igor Ivlev`,
-    title: `Improving yor Development eXperience — Talk`,
-    date: `November, 2019`,
+    title: `Early age of Arcade Games — Talk`,
+    date: `March, 2020`,
   },
   plugins: [
     `gatsby-plugin-layout`,
