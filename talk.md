@@ -63,6 +63,7 @@ It featured light and sound effects considered innovative, and was successful in
 It was exported to malls and department stores in Europe and the United States, and helped standardize the 25-cent-per-play cost for arcade games in the U.S. 
 
 Not Periscope game but something close to it:
+
 [![MISSILE - 1969 Sega Electro-Mechanical Coin Operated Arcade](http://img.youtube.com/vi/Sp7lv1lhNJI/0.jpg)](https://www.youtube.com/watch?v=Sp7lv1lhNJI)
 
 Sega was surprised by the success, and for the next two years the company produced and exported between eight and ten games per year.
@@ -111,6 +112,8 @@ Eventually PDP-1s shipped with a copy of Spacewar! in memory for testing purpose
 This wasn't an outrageous claim at all, since the program utilized nearly every resource of the machine.)
 
 Here the specs of PDP-1:
+Primary Memory: 4K word core
+CPU clock speed: 187 kHz
  
 
 ### First arcades
