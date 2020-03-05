@@ -214,23 +214,28 @@ video {
 #cover-image {
 
 }
+.slide-image{
+  max-width: 800px;
+}
 
 #slide-id-1 {
   text-align: center;
+  min-width: 1000px;
 }
 
 #slide-id-1 h1 {
-  font-size: 120%;
+  font-size: 200%;
   /*margin: 1rem 0 1rem;*/
 }
 
-#slide-id-1 img {
+#slide-id-1--off img {
   width: auto !important;
   max-height: 700px;
   margin: 0 auto !important;
 }
 
-#slide-id-5{
-  background: url(../slides/images/linux-tux.png) no-repeat center;
-  background-size: contain;
+.gatsby-resp-image-link{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
