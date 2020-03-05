@@ -1,76 +1,72 @@
-In 1940, American businessmen Martin Bromley, Irving Bromberg, and James Humpert formed **Standard Games** in Honolulu, Hawaii.
-Their aim was to provide coin-operated amusement machines, including slot machines, to military bases as the increase in personnel
-with the onset of World War II would create **demand for entertainment**.
+# First video games
 
 ---
-# Slot machines
-<div style="width:1000px">
+# Bertie the Brain
+_Bertie the Brain_ was an early computer game, and one of the first games developed in the early history of video games.
 <img
-  class="slide-image"
-  src="./images/1--Slot_machines.jpeg"
-  alt="Slot machines"
-/>
-</div>
-
----
-After the war, the founders sold _Standard Games_ and established _Service Games_, named for the military focus.
-After the United States government **outlawed slot machines in its territories in 1951**, Bromley sent employees Richard Stewart and Ray LeMaire
-to Tokyo to establish Service Games of Japan to provide coin-operated slot machines to U.S. bases in Japan.
-
----
-# You know, what's next?
-
-Standard Games >
-
----
-# You know, what's next?
-
-Standard Games > Service Games
-
----
-# You know, what's next?
-
-Standard Games > **SE**rvice **GA**mes
-
----
-# You know, what's next?
-
-Standard Games > **SE**rvice **GA**mes
-
-<img
-  class="slide-image"
-  src="./images/2--SEGA.png"
-  alt="SEGA logo"
+  src="./images/5--bertie.jpg"
+  alt="Bertie the Brain"
 />
 
 ---
-Shortly afterward, Sega stopped leasing to military bases and moved its focus from slot machines to coin-operated amusement machines.
-Sega **imports** various mechanical arcades included Rock-Ola jukeboxes, pinball and gun games.
+# Bertie the Brain
+It was built in Toronto by Josef Kates for the 1950 Canadian National Exhibition.
+The four meter  tall computer allowed exhibition attendees to play a game of tic-tac-toe against an artificial intelligence.
+The player entered a move on a lit keypad in the form of a three-by-three grid, and the game played out on a grid of lights overhead.
+The machine had an adjustable difficulty level. After the exhibition, Bertie was dismantled, and "largely forgotten" as a novelty.
 
 ---
-The first electromechanical game Sega manufactured was the submarine simulator **Periscope**, released worldwide in the late 1960s.
-It featured light and sound effects considered innovative, and was successful in Japan.
-It was exported to malls and department stores in Europe and the United States, and helped standardize the 25-cent-per-play cost for arcade games in the U.S.
+Other early games include checkers and a various versions of the well-known board and card games.
 
 ---
-# Periscope game ad poster
+At the time computers were really huge and often don't have any displays, using teletypes as the output device.
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/MikoF6KZjm0?start=61" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+**PDP-1** was one of the new modern computers with CRT display and console typewriter.
 
 <img
-  src="./images/3--periscope-i.jpg"
-  alt="Periscope game ad poster"
+  style="max-width:1000px"
+  src="./images/5--PDP-1.jpg"
+  alt="PDP-1 computer"
 />
 
 ---
-Not Periscope game but something close to it:
-
-<iframe width="1120" height="620" src="https://www.youtube.com/embed/Sp7lv1lhNJI?start=17" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-Sega was surprised by the success, and for the next two years the company produced and exported between eight and ten games per year.
-That is how SEGA developed from the local the world-wide company.
+*Spacewar!* is a space combat video game developed in 1962 by Steve Russell in collaboration with Martin Graetz and Wayne Wiitanen,
+and programmed by Russell with assistance from other people, including Bob Saunders and Steve Piner.
 
 ---
-Now let's step back a bit and take a look on the first video games ever.
+It was written for the newly installed DEC PDP-1 at the Massachusetts Institute of Technology.
 
+<iframe width="1000" height="562" src="https://www.youtube.com/embed/7bzWnaH-0sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+It was also spread to many of the few dozen (primarily academic) installations of the PDP-1 computer,
+making Spacewar the first known video game to be played at multiple computer installations.
 
+---
+Check the [sources](https://www.masswerk.at/spacewar/sources/spacewar_2b_m_2016.txt): nothing but pure ASM :D
+
+---
+Game was written in almost a half of year. While the game was officially banned at some installations
+(e.g. BBN outlawed Spacewar! occasionally, mainly because of dying control switches), it was also the most important showcase for the PDP-1.
+
+---
+Eventually PDP-1s shipped with a copy of Spacewar! in memory for testing purpose.
+Since the machine's magnetic core memory was persistent, the program would be present, when the machine was unpacked and switched on — ready for a test run of Spacewar!
+This wasn't an outrageous claim at all, since the program utilized nearly every resource of the machine.
+
+---
+## Here the specs of PDP-1:
+* Primary Memory: 4K word core
+* CPU clock speed: 187 kHz
+
+---
+### Back to first arcade galleries
+First arcade galleries (60s) were full of simple mechanical games like pinball and other primitive machines.
+People were suspicious to such games as they thought it is a direct way to the other gambling games.
+
+<img
+  src="./images/6--old-arcade.jpg"
+  alt="Pinball gallery"
+/>

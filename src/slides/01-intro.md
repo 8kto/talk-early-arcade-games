@@ -1,38 +1,26 @@
 # Early age of Arcade Games
-<img 
-  id="cover-image" 
-  src="./images/6--computer-space.jpg" 
-  alt="" 
+<img
+  id="cover-image"
+  src="./images/6--computer-space.jpg"
+  alt=""
 />
 
 ---
-# Intro
+When I started to interest about the old games, I was surprised that the origins of the video games industry lie in US and not in Japan as I used to think.
 
-Recently I discovered a `DX` term - which means Development eXpirience. 
-This all is about the stuff behind the code you're writing: physical and software environment, tooling and so on.
-
-I was fascinated by this term, and pleasantly surprised because I've been collecting such tips/tricks/notes and environment adjustments for some time.
+Let's go deeper and find out the truth!
 
 ---
-<div class="row">
-  <div class="col-half">
-  <p>
-      My talk is about configuring your environment, as OS, terminal, profile, IDE. It also contains some tips and notes about useful hotkeys, which are <strong>must-known</strong>, I believe.</p>
-    <p>
-      I will skip the tips about hardware and healthy lifestyle because I'm not your fitness instructor and spiritual teacher ;)</p>
-  </div>
-  <div class="col-half">
-    <img 
-      src="./images/close-curtains.png" 
-      alt="" 
-    />
-  </div>
+# First arcades
+The first popular "arcade games" included early amusement-park midway games such as shooting galleries,
+ball-toss games, and the earliest coin-operated machines, such as those that claimed to tell a person's fortune or that played mechanical music.
+
+---
+# Penny arcade amusement machine
+<div style="width:600px;margin-left: auto;margin-right: auto;">
+<img
+  style="margin:0 auto"
+  src="./images/1--Penny_arcade1-i.jpeg"
+  alt="Penny arcade amusement machine"
+/>
 </div>
-
----
-# Sources
-All the snippets are available on my GitHub repo: [https://github.com/8kto/dev-scritps](https://github.com/8kto/dev-scritps/).
-
-```
-git clone git@github.com:8kto/dev-scritps.git
-```
