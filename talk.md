@@ -15,7 +15,7 @@ ball-toss games, and the earliest coin-operated machines, such as those that cla
 
 <img 
   style="max-width:1000px" 
-  src="./src/slides/images/1--Penny_arcade1.jpeg" 
+  src="./src/slides/images/1--Penny_arcade1-i.jpeg" 
   alt="Penny arcade amusement machine" 
 />
 
