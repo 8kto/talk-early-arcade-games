@@ -51,8 +51,27 @@ By January 1971, the pair had built some basic hardware which could connect to a
 to make a game now named Cosmic Combat, but they were still far away from turning what was then a dot moving on a screen into a full Spacewar-like game cabinet.
 
 ---
-_Computer Space_ is a space combat arcade game developed in 1971 as one of the last games created in the early history of video games.
-Computer Space is a derivative of the 1962 computer game Spacewar!, possibly the first video game to spread to multiple computer installations.
+In January 1971, Bushnell and Dabney founded Syzygy Engineering as an official company. 
+They approached Ampex and a prior manager of Dabney's with their prototype, but found no interest.
+
+---
+During a dentist appointment in early 1971, Bushnell told the dentist about the game and that he was looking for a manufacturer; the dentist in turn referred him to another patient of his, Dave Ralstin, the sales manager for Nutting Associates in Mountain View, California.
+Nutting had been founded in 1967 on the basis of [Computer Quiz](https://gameorigo.com/computer-quiz-arcade-1967), an analog quiz arcade game, and by 1971 was looking for another hit game. 
+
+---
+# Computer Quiz game
+<img 
+  src="./src/slides/images/7--computer-quiz.jpg" 
+  alt="Computer Quiz" 
+/>
+
+---
+After meeting with Bushnell, Nutting felt that his game was the potential success they needed to replace falling sales of Computer Quiz updates, as they had not had a hit game since.
+Nutting not only agreed to manufacture the game but also hired Bushnell as their chief engineer, as they had no real engineering team at the time. Furthermore, Syzygy Engineering retained ownership of the game, even though Nutting agreed to give Syzygy space to build the prototype and to manufacture the game once complete. 
+
+---
+> _Computer Space_ is a space combat arcade game developed in 1971 as one of the last games created in the early history of video games.
+> Computer Space is a derivative of the 1962 computer game Spacewar!, possibly the first video game to spread to multiple computer installations.
 
 ---
 The game is enclosed in a custom fiberglass cabinet in one of four colors, which Bushnell designed himself to be futuristic.
