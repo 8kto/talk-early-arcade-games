@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{162:function(e,n,t){"use strict";t.r(n),t.d(n,"query",function(){return d});var i=t(0),a=t.n(i);n.default=function(e){var n=e.data,t=e.transition;return a.a.createElement("div",{className:"slideItem",id:"slide-id-"+n.slide.index},a.a.createElement("div",{style:t&&t.style,dangerouslySetInnerHTML:{__html:n.slide.html}}))};var d="2716726613"}}]);
+//# sourceMappingURL=component---src-templates-slide-js-3e2835d00be0cd46ee8f.js.map
