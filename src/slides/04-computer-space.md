@@ -61,7 +61,7 @@ Nutting had been founded in 1967 on the basis of [Computer Quiz](https://gameori
 ---
 # Computer Quiz game
 <img 
-  src="./src/slides/images/7--computer-quiz.jpg" 
+  src="./images/7--computer-quiz.jpg" 
   alt="Computer Quiz" 
 />
 
