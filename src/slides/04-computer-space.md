@@ -95,6 +95,7 @@ While this was a commercial success, making over US$1,000,000 (equivalent to abo
 it was a disappointment to Nutting, who had been hoping for a large-scale success like Computer Quiz.
 
 ---
+# Computer space game ads poster
 <img
   src="./images/6--computer-space.jpg"
   alt="Computer space game ads poster"
