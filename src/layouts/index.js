@@ -10,7 +10,7 @@ import './index.css';
 const Header = ({ name, title, date }) => (
   <header>
     <Link to="/1">
-      <span>{name}</span> — {title}
+      <span>{name}</span> / {title}
     </Link>
     <time>{date}</time>
   </header>
@@ -58,11 +58,8 @@ class TemplateWrapper extends Component {
 
     return (
       <div>
-        <style>
-          @import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono|Roboto+Slab');
-        </style>
         <Helmet
-          title={`${site.siteMetadata.title} — ${site.siteMetadata.name}`}
+          title={`${site.siteMetadata.title} / ${site.siteMetadata.name}`}
         />
         <Header
           name={site.siteMetadata.name}

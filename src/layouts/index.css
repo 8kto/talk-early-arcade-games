@@ -163,16 +163,13 @@ header a,
 time {
   text-decoration: none;
 
-  color: var(--meta);
+  color: #6ea29b;
 }
 
 header a:hover {
   color: var(--meta);
 }
 
-header span {
-  color: var(--text);
-}
 
 video {
   width: 100%;
