@@ -253,6 +253,28 @@ video {
   position: static !important;
 }
 
+/* Slide 3 */
+#slide-id-3 .gatsby-resp-image-background-image {
+  display: none !important;
+}
+
+#slide-id-3 .gatsby-resp-image-image {
+  max-height: 700px;
+  width: initial !important;
+  position: static !important;
+}
+
+/* Slide 6 */
+#slide-id-6 .gatsby-resp-image-background-image {
+  display: none !important;
+}
+
+#slide-id-6 .gatsby-resp-image-image {
+  max-height: 700px;
+  width: initial !important;
+  position: static !important;
+}
+
 /* Slide 19 */
 #slide-id-19 .gatsby-resp-image-background-image {
   display: none !important;
