@@ -2,12 +2,13 @@
   --bg: #fdfdfd;
   --meta: #888;
   --accent: #3178cd;
-  --text: black;
+  --text: #333;
   --base: 1.5rem;
 
-  --text-font: 'Roboto', sans-serif;
+  --text-font: 'Montserrat', sans-serif;
   --pre-font: 'Roboto Mono', monospace;
-  --title-font: 'Roboto Slab', serif;
+  --super-title-font: 'Bungee Shade', cursive;
+  --title-font: 'Bungee Shade', cursive;
 }
 
 @media (max-width: 600px) {
@@ -36,6 +37,10 @@ html {
 
   color: var(--text);
   background-color: var(--bg);
+}
+
+body {
+  background: url(./games-bg.png);
 }
 
 h1, h2, h3, h4, h5 {
@@ -173,6 +178,10 @@ video {
   width: 100%;
 }
 
+.super-title {
+  font-family: var(--super-title-font);
+}
+
 .col-half {
   width: 49%;
   float: left;
@@ -214,7 +223,8 @@ video {
 #cover-image {
 
 }
-.slide-image{
+
+.slide-image {
   max-width: 800px;
 }
 
@@ -234,8 +244,69 @@ video {
   margin: 0 auto !important;
 }
 
-.gatsby-resp-image-link{
+.gatsby-resp-image-link {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+}
+
+#slide-id-19 img[alt="Bertie the Brain"] {
+  max-height: 700px;
+  width: initial !important;
+  position: static !important;
+}
+
+/* Slide 19 */
+#slide-id-19 .gatsby-resp-image-background-image {
+  display: none !important;
+}
+
+#slide-id-19 .gatsby-resp-image-image {
+  max-height: 700px;
+  width: initial !important;
+  position: static !important;
+}
+
+/* Slide 23 */
+#slide-id-23 .gatsby-resp-image-background-image {
+  display: none !important;
+}
+
+#slide-id-23 .gatsby-resp-image-image {
+  max-height: 700px;
+  width: initial !important;
+  position: static !important;
+}
+
+/* Slide 31 */
+#slide-id-31 .gatsby-resp-image-background-image {
+  display: none !important;
+}
+
+#slide-id-31 .gatsby-resp-image-image {
+  max-height: 700px;
+  width: initial !important;
+  position: static !important;
+}
+
+/* Slide 37 */
+#slide-id-37 .gatsby-resp-image-background-image {
+  display: none !important;
+}
+
+#slide-id-37 .gatsby-resp-image-image {
+  max-height: 700px;
+  width: initial !important;
+  position: static !important;
+}
+
+/* Slide 47 */
+#slide-id-47 .gatsby-resp-image-background-image {
+  display: none !important;
+}
+
+#slide-id-47 .gatsby-resp-image-image {
+  max-height: 700px;
+  width: initial !important;
+  position: static !important;
 }
