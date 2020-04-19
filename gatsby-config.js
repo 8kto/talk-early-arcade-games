@@ -1,9 +1,9 @@
 module.exports = {
-  pathPrefix: "/talk-early-arcade-games",
+  pathPrefix: '/talk-early-arcade-games',
   siteMetadata: {
     name: `Igor Ivlev`,
-    title: `Early age of Arcade Games — Talk`,
-    date: `March, 2020`,
+    title: `Early age of Arcade Games`,
+    date: `March, 2020`
   },
   plugins: [
     `gatsby-plugin-layout`,
@@ -13,8 +13,8 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `slides`,
-        path: `${__dirname}/src/slides`,
-      },
+        path: `${__dirname}/src/slides`
+      }
     },
     {
       resolve: `gatsby-transformer-remark`,
@@ -27,13 +27,32 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 1920,
-            },
+              maxWidth: 1920
+            }
           },
-        ],
-      },
+          {
+            resolve: `gatsby-plugin-prefetch-google-fonts`,
+            options: {
+              fonts: [
+                {
+                  family: `Roboto Mono`,
+                  variants: [`400`]
+                },
+                {
+                  family: `Montserrat`,
+                  variants: [`400`]
+                },
+                {
+                  family: `Bungee Shade`,
+                  variants: [`400`]
+                }
+              ]
+            }
+          }
+        ]
+      }
     },
-    // `gatsby-transformer-sharp`,
-    // `gatsby-plugin-sharp`,
-  ],
-};
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`
+  ]
+}
