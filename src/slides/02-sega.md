@@ -1,4 +1,4 @@
-# Where is the roots?
+# Where are the roots?
 
 ---
 In 1940, American businessmen Martin Bromley, Irving Bromberg, and James Humpert formed **Standard Games** in Honolulu, Hawaii.
