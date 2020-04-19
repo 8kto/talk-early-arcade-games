@@ -1,14 +1,9 @@
-# Early age of Arcade Games
+<h1 class="super-title">Early age of Arcade Games</h1>
 <img
   id="cover-image"
   src="./images/6--computer-space.jpg"
   alt=""
 />
-
----
-When I started to interest about the old games, I was surprised that the origins of the video games industry lie in US and not in Japan as I used to think.
-
-Let's go deeper and find out the truth!
 
 ---
 # First arcades

@@ -75,6 +75,7 @@ Nutting not only agreed to manufacture the game but also hired Bushnell as their
 
 ---
 The game is enclosed in a custom fiberglass cabinet in one of four colors, which Bushnell designed himself to be futuristic.
+
 <img
   src="./images/7--computer-space-ii.jpg"
   alt="Computer Space arcade machine"
